@@ -11,7 +11,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2022/03/delphi-logo-1024-2643841.png?ssl=1" height="30" alt="delphi logo"  />
+  <img width="12" />
+  <img src="https://res.cloudinary.com/appmasters-io/image/upload/c_fit,w_70,h_70,q_70,f_auto/mysql_87a2317566" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
